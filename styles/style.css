@@ -4,7 +4,7 @@
     margin: 0%;
 }
 
-.logo__img-container {
+.logo {
     display: flex;
     justify-content: center;
     margin-left: auto;
